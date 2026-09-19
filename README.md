@@ -46,6 +46,12 @@ ledger is the dated record of that, kept from the day this was switched on.
   trademarks, nobody's proprietary data, no personal data.
 - No figure without a public source or an open derivation. Anything else is left out or marked CANDIDATE.
 
+## The licence question, answered
+
+May a public map draw the 132 kV underground cable routes? **No.** The licence was read in full; see
+[stones/STONE-20260919-may-a-public-map-draw-the-cable-routes.md](stones/STONE-20260919-may-a-public-map-draw-the-cable-routes.md)
+for what it forbids, what may be done instead, and the attribution line for the datasets that are open.
+
 ## What it costs to run
 
 Nothing that has to be paid for: a few seconds a day on a free runner, no key, no assistant. It
