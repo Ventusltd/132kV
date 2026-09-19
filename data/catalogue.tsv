@@ -1,0 +1,25 @@
+# dataset	title	licence	records	modified
+ukpn-132kv-circuit-operational-data-half-hourly	132kV Circuit Operational Data Half Hourly	CC BY 4.0	22077309	2026-09-12T00:54:07
+ukpn-132kv-circuit-operational-data-monthly	132kV Circuit Operational Data Monthly	CC BY 4.0	17019	2026-09-11T22:01:25
+ukpn-132kv-overhead-lines	UK Power Networks Licence Area 132kV Overhead Lines	CC BY 4.0	683	2026-03-31T13:17:11
+ukpn-132kv-poles-towers	UK Power Networks Licence Area 132kV Poles and Towers	CC BY 4.0	7313	2026-03-31T13:22:17
+ukpn-33kv-circuit-operational-data-half-hourly-epn	33kV Circuit Operational Data Half Hourly - Eastern Power Networks (EPN)	CC BY 4.0	29897278	2026-09-12T02:43:49
+ukpn-33kv-circuit-operational-data-half-hourly-spn	33kV Circuit Operational Data Half Hourly - South Eastern Power Networks (SPN)	CC BY 4.0	23858271	2026-09-12T02:15:00
+ukpn-33kv-circuit-operational-data-monthly	33kV Circuit Operational Data Monthly	CC BY 4.0	49349	2026-09-11T21:01:22
+ukpn-33kv-overhead-lines	UK Power Networks Licence Area 33kV Overhead Lines	CC BY 4.0	6076	2026-03-31T13:13:41
+ukpn-33kv-poles-towers	UK Power Networks Licence Area 33kV Poles and Towers	CC BY 4.0	47409	2026-03-31T13:45:19
+ukpn-66kv-overhead-lines-shapefile	UK Power Networks Licence Area 66kV Overhead Lines	CC BY 4.0	4	2026-03-31T13:16:10
+ukpn-grid-and-primary-sites-epr-data	Earth Potential Rise (EPR) Data for Grid and Primary Sites	CC BY 4.0	3263	2026-09-18T07:01:07
+ukpn-grid-and-primary-sites-fault-level-data	Earthing Fault Level Data for Grid and Primary Sites	CC BY 4.0	3482	2026-09-18T07:10:14
+ukpn-grid-transformer-operational-data-half-hourly	Grid Transformer Power Flow Historic Half Hourly	CC BY 4.0	10879831	2026-09-11T22:52:40
+ukpn-grid-transformer-operational-data-monthly	Grid Transformer Power Flow Historic Monthly	CC BY 4.0	10312	2026-09-11T22:01:21
+ukpn-hv-overhead-lines-shapefile	UK Power Networks Licence Area HV Overhead Lines	CC BY 4.0	103368	2026-03-31T13:28:09
+ukpn-licence-area-132kv-underground-cables	UK Power Networks Licence Area 132kV Underground Cables	UK Power Networks Shared Data Licence - Connections	2437	2026-03-31T13:11:01
+ukpn-licence-area-33kv-underground-cables	UK Power Networks Licence Area 33kV Underground Cables	UK Power Networks Shared Data Licence - Connections	19402	2026-03-31T13:10:23
+ukpn-licence-area-66kv-underground-cables	UK Power Networks Licence Area 66kV Underground Cables	UK Power Networks Shared Data Licence - Connections	0	2025-03-31T14:55:45
+ukpn-licence-area-hv-underground-cables	UK Power Networks Licence Area HV Underground Cables	UK Power Networks Shared Data Licence - Connections	433751	2026-04-24T08:19:17
+ukpn-licence-area-lv-underground-cables	UK Power Networks Licence Area LV Underground Cables	UK Power Networks Shared Data Licence - Connections	2015774	2026-03-30T13:59:42
+ukpn-lv-overhead-lines-shapefile	UK Power Networks Licence Area LV Overhead Lines	CC BY 4.0	215095	2026-03-30T13:25:27
+ukpn-primary-transformer-power-flow-historic-half-hourly-epn	Primary Transformer Power Flow Historic Half Hourly - Eastern Power Networks	CC BY 4.0	47070249	2026-09-15T21:18:47
+ukpn-primary-transformer-power-flow-historic-half-hourly-spn	Primary Transformer Power Flow Historic Half Hourly - South Eastern Power Networks	CC BY 4.0	25537181	2026-02-25T18:37:50
+ukpn-primary-transformer-power-flow-historic-monthly	Primary Transformer Power Flow Historic Monthly	CC BY 4.0	55043	2026-09-11T22:02:01
