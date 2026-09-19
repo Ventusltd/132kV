@@ -67,3 +67,7 @@ commits only when something changed.
 Source of the catalogue facts: UK Power Networks Open Data Portal, https://ukpowernetworks.opendatasoft.com.
 This project is independent and is not affiliated with or endorsed by any network operator.
 Provided as is, without warranty of any kind; a chart, not a design.
+
+## Licence
+
+The code is under the MIT licence (see LICENSE). The ledgers and tables this repository itself produces are under CC BY 4.0: use them, and say where they came from. Data belonging to others keeps its own licence, named beside it.
