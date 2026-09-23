@@ -4,6 +4,13 @@ Rebuilt by `tools/watch_catalogue.py`. Source: UK Power Networks Open Data Porta
 
 | dataset | records | last modified | licence |
 |---|---:|---|---|
+| [UK Power Networks Licence Area 33kV Poles and Towers](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-33kv-poles-towers/) | 53,421 | 2026-09-22 | CC BY 4.0 |
+| [UK Power Networks Licence Area 132kV Poles and Towers](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-132kv-poles-towers/) | 7,313 | 2026-09-22 | CC BY 4.0 |
+| [UK Power Networks Licence Area HV Overhead Lines](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-hv-overhead-lines-shapefile/) | 103,421 | 2026-09-22 | CC BY 4.0 |
+| [UK Power Networks Licence Area LV Overhead Lines](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-lv-overhead-lines-shapefile/) | 215,301 | 2026-09-22 | CC BY 4.0 |
+| [UK Power Networks Licence Area 33kV Overhead Lines](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-33kv-overhead-lines/) | 6,081 | 2026-09-22 | CC BY 4.0 |
+| [UK Power Networks Licence Area 66kV Overhead Lines](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-66kv-overhead-lines-shapefile/) | 4 | 2026-09-22 | CC BY 4.0 |
+| [UK Power Networks Licence Area 132kV Overhead Lines](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-132kv-overhead-lines/) | 685 | 2026-09-22 | CC BY 4.0 |
 | [Earthing Fault Level Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-fault-level-data/) | 3,482 | 2026-09-18 | CC BY 4.0 |
 | [Earth Potential Rise (EPR) Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-epr-data/) | 3,263 | 2026-09-18 | CC BY 4.0 |
 | [Primary Transformer Power Flow Historic Half Hourly - Eastern Power Networks](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-half-hourly-epn/) | 47,070,249 | 2026-09-15 | CC BY 4.0 |
@@ -16,15 +23,8 @@ Rebuilt by `tools/watch_catalogue.py`. Source: UK Power Networks Open Data Porta
 | [Grid Transformer Power Flow Historic Monthly](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-transformer-operational-data-monthly/) | 10,312 | 2026-09-11 | CC BY 4.0 |
 | [33kV Circuit Operational Data Monthly](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-33kv-circuit-operational-data-monthly/) | 49,349 | 2026-09-11 | CC BY 4.0 |
 | [UK Power Networks Licence Area HV Underground Cables](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-licence-area-hv-underground-cables/) | 433,751 | 2026-04-24 | UK Power Networks Shared Data Licence - Connections |
-| [UK Power Networks Licence Area 33kV Poles and Towers](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-33kv-poles-towers/) | 47,409 | 2026-03-31 | CC BY 4.0 |
-| [UK Power Networks Licence Area HV Overhead Lines](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-hv-overhead-lines-shapefile/) | 103,368 | 2026-03-31 | CC BY 4.0 |
-| [UK Power Networks Licence Area 132kV Poles and Towers](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-132kv-poles-towers/) | 7,313 | 2026-03-31 | CC BY 4.0 |
-| [UK Power Networks Licence Area 132kV Overhead Lines](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-132kv-overhead-lines/) | 683 | 2026-03-31 | CC BY 4.0 |
-| [UK Power Networks Licence Area 66kV Overhead Lines](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-66kv-overhead-lines-shapefile/) | 4 | 2026-03-31 | CC BY 4.0 |
-| [UK Power Networks Licence Area 33kV Overhead Lines](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-33kv-overhead-lines/) | 6,076 | 2026-03-31 | CC BY 4.0 |
 | [UK Power Networks Licence Area 132kV Underground Cables](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-licence-area-132kv-underground-cables/) | 2,437 | 2026-03-31 | UK Power Networks Shared Data Licence - Connections |
 | [UK Power Networks Licence Area 33kV Underground Cables](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-licence-area-33kv-underground-cables/) | 19,402 | 2026-03-31 | UK Power Networks Shared Data Licence - Connections |
 | [UK Power Networks Licence Area LV Underground Cables](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-licence-area-lv-underground-cables/) | 2,015,774 | 2026-03-30 | UK Power Networks Shared Data Licence - Connections |
-| [UK Power Networks Licence Area LV Overhead Lines](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-lv-overhead-lines-shapefile/) | 215,095 | 2026-03-30 | CC BY 4.0 |
 | [Primary Transformer Power Flow Historic Half Hourly - South Eastern Power Networks](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-half-hourly-spn/) | 25,537,181 | 2026-02-25 | CC BY 4.0 |
 | [UK Power Networks Licence Area 66kV Underground Cables](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-licence-area-66kv-underground-cables/) | 0 | 2025-03-31 | UK Power Networks Shared Data Licence - Connections |
