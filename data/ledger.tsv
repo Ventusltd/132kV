@@ -30,3 +30,12 @@
 1790158597	ukpn-66kv-overhead-lines-shapefile	4	2026-09-22T10:40:32	records +0
 1790158597	ukpn-hv-overhead-lines-shapefile	103421	2026-09-22T10:48:34	records +53
 1790158597	ukpn-lv-overhead-lines-shapefile	215301	2026-09-22T10:43:44	records +206
+1790245835	ukpn-132kv-circuit-operational-data-half-hourly	22077113	2026-09-24T00:50:45	records -196
+1790245835	ukpn-132kv-circuit-operational-data-monthly	17019	2026-09-23T22:01:13	records +0
+1790245835	ukpn-33kv-circuit-operational-data-half-hourly-epn	29897278	2026-09-24T02:44:27	records +0
+1790245835	ukpn-33kv-circuit-operational-data-half-hourly-spn	23858271	2026-09-24T02:12:50	records +0
+1790245835	ukpn-33kv-circuit-operational-data-monthly	49349	2026-09-23T21:01:27	records +0
+1790245835	ukpn-grid-transformer-operational-data-half-hourly	10879831	2026-09-23T22:52:23	records +0
+1790245835	ukpn-grid-transformer-operational-data-monthly	10312	2026-09-23T22:01:09	records +0
+1790245835	ukpn-primary-transformer-power-flow-historic-half-hourly-epn	47070218	2026-09-23T21:17:37	records -31
+1790245835	ukpn-primary-transformer-power-flow-historic-monthly	55044	2026-09-23T22:01:42	records +1
