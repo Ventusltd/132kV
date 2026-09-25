@@ -4,6 +4,8 @@ Rebuilt by `tools/watch_catalogue.py`. Source: UK Power Networks Open Data Porta
 
 | dataset | records | last modified | licence |
 |---|---:|---|---|
+| [Earthing Fault Level Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-fault-level-data/) | 3,482 | 2026-09-25 | CC BY 4.0 |
+| [Earth Potential Rise (EPR) Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-epr-data/) | 3,263 | 2026-09-25 | CC BY 4.0 |
 | [33kV Circuit Operational Data Half Hourly - Eastern Power Networks (EPN)](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-33kv-circuit-operational-data-half-hourly-epn/) | 29,897,278 | 2026-09-24 | CC BY 4.0 |
 | [33kV Circuit Operational Data Half Hourly - South Eastern Power Networks (SPN)](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-33kv-circuit-operational-data-half-hourly-spn/) | 23,858,271 | 2026-09-24 | CC BY 4.0 |
 | [132kV Circuit Operational Data Half Hourly](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-132kv-circuit-operational-data-half-hourly/) | 22,077,113 | 2026-09-24 | CC BY 4.0 |
@@ -20,8 +22,6 @@ Rebuilt by `tools/watch_catalogue.py`. Source: UK Power Networks Open Data Porta
 | [UK Power Networks Licence Area 33kV Overhead Lines](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-33kv-overhead-lines/) | 6,081 | 2026-09-22 | CC BY 4.0 |
 | [UK Power Networks Licence Area 66kV Overhead Lines](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-66kv-overhead-lines-shapefile/) | 4 | 2026-09-22 | CC BY 4.0 |
 | [UK Power Networks Licence Area 132kV Overhead Lines](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-132kv-overhead-lines/) | 685 | 2026-09-22 | CC BY 4.0 |
-| [Earthing Fault Level Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-fault-level-data/) | 3,482 | 2026-09-18 | CC BY 4.0 |
-| [Earth Potential Rise (EPR) Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-epr-data/) | 3,263 | 2026-09-18 | CC BY 4.0 |
 | [UK Power Networks Licence Area HV Underground Cables](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-licence-area-hv-underground-cables/) | 433,751 | 2026-04-24 | UK Power Networks Shared Data Licence - Connections |
 | [UK Power Networks Licence Area 132kV Underground Cables](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-licence-area-132kv-underground-cables/) | 2,437 | 2026-03-31 | UK Power Networks Shared Data Licence - Connections |
 | [UK Power Networks Licence Area 33kV Underground Cables](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-licence-area-33kv-underground-cables/) | 19,402 | 2026-03-31 | UK Power Networks Shared Data Licence - Connections |
