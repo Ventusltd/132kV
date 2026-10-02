@@ -50,3 +50,5 @@
 1790855277	ukpn-grid-transformer-operational-data-monthly	10312	2026-09-30T22:01:37	records +0
 1790855277	ukpn-primary-transformer-power-flow-historic-half-hourly-epn	47070218	2026-09-30T21:16:44	records +0
 1790855277	ukpn-primary-transformer-power-flow-historic-monthly	55044	2026-09-30T22:02:13	records +0
+1790940051	ukpn-grid-and-primary-sites-epr-data	3263	2026-10-02T07:00:44	records +0
+1790940051	ukpn-grid-and-primary-sites-fault-level-data	3482	2026-10-02T07:10:44	records +0
