@@ -4,8 +4,8 @@ Rebuilt by `tools/watch_catalogue.py`. Source: UK Power Networks Open Data Porta
 
 | dataset | records | last modified | licence |
 |---|---:|---|---|
-| [Earthing Fault Level Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-fault-level-data/) | 3,482 | 2026-10-02 | CC BY 4.0 |
-| [Earth Potential Rise (EPR) Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-epr-data/) | 3,263 | 2026-10-02 | CC BY 4.0 |
+| [Earthing Fault Level Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-fault-level-data/) | 3,482 | 2026-10-09 | CC BY 4.0 |
+| [Earth Potential Rise (EPR) Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-epr-data/) | 3,266 | 2026-10-09 | CC BY 4.0 |
 | [33kV Circuit Operational Data Half Hourly - Eastern Power Networks (EPN)](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-33kv-circuit-operational-data-half-hourly-epn/) | 29,887,093 | 2026-10-01 | CC BY 4.0 |
 | [33kV Circuit Operational Data Half Hourly - South Eastern Power Networks (SPN)](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-33kv-circuit-operational-data-half-hourly-spn/) | 23,858,137 | 2026-10-01 | CC BY 4.0 |
 | [132kV Circuit Operational Data Half Hourly](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-132kv-circuit-operational-data-half-hourly/) | 22,077,113 | 2026-10-01 | CC BY 4.0 |
