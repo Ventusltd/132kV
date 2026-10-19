@@ -81,3 +81,8 @@
 1792317196	ukpn-grid-transformer-operational-data-half-hourly	14172522	2026-10-17T23:09:02	records +1660495
 1792317196	ukpn-grid-transformer-operational-data-monthly	13500	2026-10-17T22:01:14	records +0
 1792317196	ukpn-primary-transformer-power-flow-historic-monthly	66465	2026-10-17T22:01:53	records +9944
+1792408501	ukpn-132kv-circuit-operational-data-half-hourly	0	2024-03-07T11:11:28	records -23755667
+1792408501	ukpn-132kv-circuit-operational-data-monthly	20745	2026-10-19T10:07:12	records +1803
+1792408501	ukpn-33kv-circuit-operational-data-half-hourly-epn	372311	2024-06-25T13:50:39	records -30341271
+1792408501	ukpn-33kv-circuit-operational-data-half-hourly-spn	368500	2024-06-25T13:50:39	records -24089131
+1792408501	ukpn-33kv-circuit-operational-data-monthly	60075	2026-10-19T10:15:39	records +9415

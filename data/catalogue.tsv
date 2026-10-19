@@ -1,11 +1,11 @@
 # dataset	title	licence	records	modified
-ukpn-132kv-circuit-operational-data-half-hourly	132kV Circuit Operational Data Half Hourly	CC BY 4.0	23755667	2026-10-17T01:01:20
-ukpn-132kv-circuit-operational-data-monthly	132kV Circuit Operational Data Monthly	CC BY 4.0	18942	2026-10-16T22:01:39
+ukpn-132kv-circuit-operational-data-half-hourly	132kV Circuit Operational Data Half Hourly	CC BY 4.0	0	2024-03-07T11:11:28
+ukpn-132kv-circuit-operational-data-monthly	132kV Circuit Operational Data Monthly	CC BY 4.0	20745	2026-10-19T10:07:12
 ukpn-132kv-overhead-lines	UK Power Networks Licence Area 132kV Overhead Lines	CC BY 4.0	685	2026-09-22T10:40:29
 ukpn-132kv-poles-towers	UK Power Networks Licence Area 132kV Poles and Towers	CC BY 4.0	7313	2026-09-22T10:51:23
-ukpn-33kv-circuit-operational-data-half-hourly-epn	33kV Circuit Operational Data Half Hourly - Eastern Power Networks (EPN)	CC BY 4.0	30713582	2026-10-16T02:53:36
-ukpn-33kv-circuit-operational-data-half-hourly-spn	33kV Circuit Operational Data Half Hourly - South Eastern Power Networks (SPN)	CC BY 4.0	24457631	2026-10-16T02:22:31
-ukpn-33kv-circuit-operational-data-monthly	33kV Circuit Operational Data Monthly	CC BY 4.0	50660	2026-10-15T21:01:36
+ukpn-33kv-circuit-operational-data-half-hourly-epn	33kV Circuit Operational Data Half Hourly - Eastern Power Networks (EPN)	CC BY 4.0	372311	2024-06-25T13:50:39
+ukpn-33kv-circuit-operational-data-half-hourly-spn	33kV Circuit Operational Data Half Hourly - South Eastern Power Networks (SPN)	CC BY 4.0	368500	2024-06-25T13:50:39
+ukpn-33kv-circuit-operational-data-monthly	33kV Circuit Operational Data Monthly	CC BY 4.0	60075	2026-10-19T10:15:39
 ukpn-33kv-overhead-lines	UK Power Networks Licence Area 33kV Overhead Lines	CC BY 4.0	6081	2026-09-22T10:41:01
 ukpn-33kv-poles-towers	UK Power Networks Licence Area 33kV Poles and Towers	CC BY 4.0	53421	2026-09-22T11:09:45
 ukpn-66kv-overhead-lines-shapefile	UK Power Networks Licence Area 66kV Overhead Lines	CC BY 4.0	4	2026-09-22T10:40:32
