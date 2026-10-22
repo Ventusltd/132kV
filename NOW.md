@@ -4,11 +4,8 @@ Rebuilt by `tools/watch_catalogue.py`. Source: UK Power Networks Open Data Porta
 
 | dataset | records | last modified | licence |
 |---|---:|---|---|
-| [33kV Circuit Operational Data Half Hourly - Eastern Power Networks (EPN)](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-33kv-circuit-operational-data-half-hourly-epn/) | 37,445,394 | 2026-10-20 | CC BY 4.0 |
-| [33kV Circuit Operational Data Half Hourly - South Eastern Power Networks (SPN)](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-33kv-circuit-operational-data-half-hourly-spn/) | 30,196,771 | 2026-10-20 | CC BY 4.0 |
 | [Primary Transformer Power Flow Historic Half Hourly - South Eastern Power Networks](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-half-hourly-spn/) | 31,576,289 | 2026-10-19 | CC BY 4.0 |
 | [33kV Circuit Operational Data Monthly](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-33kv-circuit-operational-data-monthly/) | 60,075 | 2026-10-19 | CC BY 4.0 |
-| [132kV Circuit Operational Data Half Hourly](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-132kv-circuit-operational-data-half-hourly/) | 25,782,998 | 2026-10-19 | CC BY 4.0 |
 | [132kV Circuit Operational Data Monthly](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-132kv-circuit-operational-data-monthly/) | 20,745 | 2026-10-19 | CC BY 4.0 |
 | [Grid Transformer Power Flow Historic Half Hourly](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-transformer-operational-data-half-hourly/) | 14,172,522 | 2026-10-17 | CC BY 4.0 |
 | [Primary Transformer Power Flow Historic Monthly](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-monthly/) | 66,465 | 2026-10-17 | CC BY 4.0 |
