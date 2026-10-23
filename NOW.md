@@ -4,14 +4,14 @@ Rebuilt by `tools/watch_catalogue.py`. Source: UK Power Networks Open Data Porta
 
 | dataset | records | last modified | licence |
 |---|---:|---|---|
+| [Earthing Fault Level Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-fault-level-data/) | 3,482 | 2026-10-23 | CC BY 4.0 |
+| [Earth Potential Rise (EPR) Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-epr-data/) | 3,266 | 2026-10-23 | CC BY 4.0 |
+| [33kV Circuit Operational Data Monthly](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-33kv-circuit-operational-data-monthly/) | 60,076 | 2026-10-22 | CC BY 4.0 |
 | [Primary Transformer Power Flow Historic Half Hourly - South Eastern Power Networks](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-half-hourly-spn/) | 31,576,289 | 2026-10-19 | CC BY 4.0 |
-| [33kV Circuit Operational Data Monthly](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-33kv-circuit-operational-data-monthly/) | 60,075 | 2026-10-19 | CC BY 4.0 |
 | [132kV Circuit Operational Data Monthly](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-132kv-circuit-operational-data-monthly/) | 20,745 | 2026-10-19 | CC BY 4.0 |
 | [Grid Transformer Power Flow Historic Half Hourly](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-transformer-operational-data-half-hourly/) | 14,172,522 | 2026-10-17 | CC BY 4.0 |
 | [Primary Transformer Power Flow Historic Monthly](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-monthly/) | 66,465 | 2026-10-17 | CC BY 4.0 |
 | [Grid Transformer Power Flow Historic Monthly](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-transformer-operational-data-monthly/) | 13,500 | 2026-10-17 | CC BY 4.0 |
-| [Earthing Fault Level Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-fault-level-data/) | 3,482 | 2026-10-16 | CC BY 4.0 |
-| [Earth Potential Rise (EPR) Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-epr-data/) | 3,266 | 2026-10-16 | CC BY 4.0 |
 | [UK Power Networks Licence Area 33kV Poles and Towers](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-33kv-poles-towers/) | 53,421 | 2026-09-22 | CC BY 4.0 |
 | [UK Power Networks Licence Area 132kV Poles and Towers](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-132kv-poles-towers/) | 7,313 | 2026-09-22 | CC BY 4.0 |
 | [UK Power Networks Licence Area HV Overhead Lines](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-hv-overhead-lines-shapefile/) | 103,421 | 2026-09-22 | CC BY 4.0 |
