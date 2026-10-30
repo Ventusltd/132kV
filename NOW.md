@@ -4,8 +4,8 @@ Rebuilt by `tools/watch_catalogue.py`. Source: UK Power Networks Open Data Porta
 
 | dataset | records | last modified | licence |
 |---|---:|---|---|
-| [Earthing Fault Level Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-fault-level-data/) | 3,482 | 2026-10-23 | CC BY 4.0 |
-| [Earth Potential Rise (EPR) Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-epr-data/) | 3,266 | 2026-10-23 | CC BY 4.0 |
+| [Earthing Fault Level Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-fault-level-data/) | 3,482 | 2026-10-30 | CC BY 4.0 |
+| [Earth Potential Rise (EPR) Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-epr-data/) | 3,266 | 2026-10-30 | CC BY 4.0 |
 | [33kV Circuit Operational Data Monthly](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-33kv-circuit-operational-data-monthly/) | 60,076 | 2026-10-22 | CC BY 4.0 |
 | [Primary Transformer Power Flow Historic Half Hourly - South Eastern Power Networks](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-half-hourly-spn/) | 31,576,289 | 2026-10-19 | CC BY 4.0 |
 | [132kV Circuit Operational Data Monthly](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-132kv-circuit-operational-data-monthly/) | 20,745 | 2026-10-19 | CC BY 4.0 |
