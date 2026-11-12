@@ -4,6 +4,7 @@ Rebuilt by `tools/watch_catalogue.py`. Source: UK Power Networks Open Data Porta
 
 | dataset | records | last modified | licence |
 |---|---:|---|---|
+| [Primary Transformer Power Flow Historic Half Hourly - Eastern Power Networks](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-half-hourly-epn/) | 41,915,807 | 2026-11-12 | CC BY 4.0 |
 | [Earthing Fault Level Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-fault-level-data/) | 3,482 | 2026-10-30 | CC BY 4.0 |
 | [Earth Potential Rise (EPR) Data for Grid and Primary Sites](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-and-primary-sites-epr-data/) | 3,266 | 2026-10-30 | CC BY 4.0 |
 | [33kV Circuit Operational Data Monthly](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-33kv-circuit-operational-data-monthly/) | 60,076 | 2026-10-22 | CC BY 4.0 |
@@ -24,4 +25,3 @@ Rebuilt by `tools/watch_catalogue.py`. Source: UK Power Networks Open Data Porta
 | [UK Power Networks Licence Area 33kV Underground Cables](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-licence-area-33kv-underground-cables/) | 19,402 | 2026-03-31 | UK Power Networks Shared Data Licence - Connections |
 | [UK Power Networks Licence Area LV Underground Cables](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-licence-area-lv-underground-cables/) | 2,015,774 | 2026-03-30 | UK Power Networks Shared Data Licence - Connections |
 | [UK Power Networks Licence Area 66kV Underground Cables](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-licence-area-66kv-underground-cables/) | 0 | 2025-03-31 | UK Power Networks Shared Data Licence - Connections |
-| [Primary Transformer Power Flow Historic Half Hourly - Eastern Power Networks](https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-half-hourly-epn/) | 50,000,492 | 2024-03-06 | CC BY 4.0 |
